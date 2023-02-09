@@ -2,6 +2,7 @@
 
 ### Pseudocode
 
+```
 low = 0
 high = array.length
 mid = low + high / 2
@@ -16,5 +17,6 @@ elseof key > mid
     low = mid + 1
 else
     not found
+```
 
 Repeat until array gets exhausted.
