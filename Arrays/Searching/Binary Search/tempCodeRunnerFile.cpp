@@ -1,0 +1,1 @@
+printf("Element doesn't exist in arr.\n");
