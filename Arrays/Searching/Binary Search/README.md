@@ -19,4 +19,4 @@ else
     not found
 ```
 
-Repeat until array gets exhausted.
+Repeat until array is looped through completely.
