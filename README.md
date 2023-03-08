@@ -16,3 +16,8 @@ Repo containing the code files for (in part)
     - Quick Sort
     - Heap Sort
     - RADIX Sort
+3. Algortihms
+    - Asymptotic Notation
+    - Divide and Conquer Recurrences
+        - Master's Theorem
+        - Strassen's Algorithm
